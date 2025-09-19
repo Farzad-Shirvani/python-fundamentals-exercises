@@ -8,3 +8,19 @@ Input: Three positive integers (greater than 0).
 Output: 
 - Print `Yes` if the numbers can form a triangle.
 - Print `No` otherwise.
+
+Example 1:
+```
+Input: 3 4 5
+```
+```
+Output: Yes
+```
+
+Example 2:
+```
+Input: 3 5 9
+```
+```
+Output: No
+```
