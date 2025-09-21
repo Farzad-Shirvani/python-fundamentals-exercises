@@ -1,4 +1,4 @@
-# Python Exercise 9: Right Triangle?
+# Exercise 9: Right Triangle?
 
 Write a program that takes 3 integers as input.  
 If they can represent the angles of a right triangle, print `Yes`. Otherwise, print `No`.
