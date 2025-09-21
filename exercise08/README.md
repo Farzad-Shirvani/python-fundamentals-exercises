@@ -1,4 +1,4 @@
-# Python Exercise 8: Triangle or Not?
+# Exercise 8: Triangle or Not?
 
 Write a program that takes 3 positive integers as input.  
 If these numbers can form the sides of a triangle, print `Yes`. Otherwise, print `No`.
