@@ -1,4 +1,4 @@
-# Example 17: GCD of Two Numbers
+# Example 18: GCD of Two Numbers
  
 Given two integers `a` and `b`, calculate their greatest common divisor (GCD).
 
