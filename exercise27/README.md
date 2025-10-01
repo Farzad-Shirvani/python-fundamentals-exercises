@@ -9,7 +9,7 @@ Given `n` natural numbers and an integer `k`, determine if there exists a number
 ### Output
 Print `"YES"` if there is any number greater than `k` in the list; otherwise, print `"NO"`.
 
-Example 1:
+Example 1:  
 Input:
 ```
 6 8
@@ -20,7 +20,7 @@ Output:
 Yes
 ```
 
-Example 2:
+Example 2:  
 Input:
 ```
 5 7
